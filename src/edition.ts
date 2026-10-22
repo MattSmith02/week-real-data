@@ -46,7 +46,7 @@ export const REAL_EDITION: RealEdition = {
       slot: 1,
       slotType: "post",
       slotColor: "",
-      thumbnail: "https://cdn.mos.cms.futurecdn.net/xmY92hnTSQbGob4axZmJs3-2000-80.jpg",
+      thumbnail: "https://images.pexels.com/photos/6172597/pexels-photo-6172597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       articleFreeTextLabel: "Today’s international story",
       articleName: "Iran’s president vows fight ‘until our last breath’",
       articleStrapline:
@@ -58,7 +58,7 @@ export const REAL_EDITION: RealEdition = {
       slot: 2,
       slotType: "post",
       slotColor: "",
-      thumbnail: "https://cdn.mos.cms.futurecdn.net/HHZHF7DvsKqAagFnXcHXym-2000-80.jpg",
+      thumbnail: "https://images.pexels.com/photos/8898680/pexels-photo-8898680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       articleFreeTextLabel: "Today’s press freedom story",
       articleName: "Court temporarily blocks Trump’s media ban",
       articleStrapline:
@@ -70,7 +70,7 @@ export const REAL_EDITION: RealEdition = {
       slot: 3,
       slotType: "post",
       slotColor: "",
-      thumbnail: "https://cdn.mos.cms.futurecdn.net/XJbvBRNMBvPaPoi4bBkT84-2000-80.jpg",
+      thumbnail: "https://images.pexels.com/photos/15322664/pexels-photo-15322664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       articleFreeTextLabel: "Today’s military story",
       articleName: "China reportedly holds F-35 parts diverted to Hong Kong",
       articleStrapline:
@@ -95,7 +95,7 @@ export const REAL_EDITION: RealEdition = {
       slot: 6,
       slotType: "post",
       slotColor: "",
-      thumbnail: "https://cdn.mos.cms.futurecdn.net/nPKq8FJuBAwvAQfg8wmJfn-2000-80.webp",
+      thumbnail: "https://images.pexels.com/photos/36376215/pexels-photo-36376215.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       articleFreeTextLabel: "Today’s newspapers",
       articleName: "‘New tone in ICE surge’",
       articleStrapline:
@@ -129,7 +129,7 @@ export const REAL_EDITION: RealEdition = {
       slot: 5,
       slotType: "post",
       slotColor: "",
-      thumbnail: "https://cdn.mos.cms.futurecdn.net/VwT7V8tRZ5YLMZ6cnBvWyA-2000-80.jpg.webp",
+      thumbnail: "https://images.pexels.com/photos/8657374/pexels-photo-8657374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
       articleFreeTextLabel: "Under the radar",
       articleName: "FDA estrogen warning hit menopausal UTI care",
       articleStrapline:
